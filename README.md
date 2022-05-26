@@ -10,5 +10,5 @@ words in the text e.g {“as”:10, “would”:5}.
 Resources:
 <ul>
  <li><p><a href="https://www.pythontutorial.net/python-basics/python-read-text-file/">How to Read a Text file In Python Effectively</p></li>
- <li><p><a href="https://www.w3schools.com/python/python_functions.asp"></p></li>
+ <li><p><a href="https://www.w3schools.com/python/python_functions.asp">Python Functions</p></li>
 </ul>
